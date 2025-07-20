@@ -1,4 +1,4 @@
-# MusicStream-Popularity-Trends-in-the-Streaming-Era-Data-Integration
+# MusicStream-Popularity-Trends-Data-Integration
 
 Summary: An end-to-end data pipeline project for a music platform analyzing streaming trends across Spotify and Last.fm.
 
